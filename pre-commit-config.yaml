@@ -21,3 +21,5 @@ repos:
       - id: mypy
         additional_dependencies: [pydantic, fastapi, sqlalchemy]
         pass_filenames: true
+
+# советуется создать файл .pre-commit-config.yaml
